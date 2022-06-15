@@ -5,7 +5,7 @@
 ```
 fido_revocation_sdk:
     git:
-      url: https://github.com/rstthailand/FIDO-Revocation-SDK
+      url: https://github.com/rstthailand/FIDO-Revocation-Lib
 ```
 
 ตัวอย่าง
@@ -16,7 +16,7 @@ dependencies:
     sdk: flutter
   fido_revocation_sdk:
     git:
-      url: https://github.com/rstthailand/FIDO-Revocation-SDK
+      url: https://github.com/rstthailand/FIDO-Revocation-Lib
       
 ```
 
